@@ -20,5 +20,5 @@ gcc -Wall -std=c99 -D_GNU_SOURCE -DREGURGITATE main.c -o dk-skeleton -lm
  5
  6
  9
- and run the program with you .txt as input file
+ and run the program with your .txt as input file
    ./dk-skeleton < filename
